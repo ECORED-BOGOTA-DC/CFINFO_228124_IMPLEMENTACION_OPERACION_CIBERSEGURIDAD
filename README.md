@@ -1,7 +1,7 @@
-# **Regencia de farmacia**
+# **Implementación y operación de la ciberseguridad**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-bogota-dc.github.io/INFO_331502_REGENCIA_FARMACIA/](https://ecored-bogota-dc.github.io/INFO_331502_REGENCIA_FARMACIA/)
+[https://ecored-bogota-dc.github.io/CFINFO_228124_IMPLEMENTACION_OPERACION_CIBERSEGURIDAD/)
 
 #
